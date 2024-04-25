@@ -1,7 +1,7 @@
 .container{
   height:400px;
   width:700px;
-  background-color: rgb(66, 156, 186);
+  background-color: rgb(209, 196, 196);
   position: absolute;
   left: 280px;
   bottom: 70px;
@@ -28,4 +28,40 @@
   padding:5px;
   width:10%;
   border-radius: 1cap;
+}
+
+li{
+  background-color: chocolate;
+  color:black;
+  margin-left:10px;
+  margin-bottom: 20px;
+  margin-right: 10%;
+  padding:10px 20px 10px 20px;
+  border-radius:1cap;
+
+}
+.li{
+  display: flex;
+}
+.li .lit{
+  flex:1;
+}
+.lit .icons{
+  padding-left:5px;
+  font-size:20px;
+  cursor: pointer;
+}
+#edit{
+  color:white;
+}
+
+#del{
+  color: red;
+}
+#done{
+  color: green;
+}
+#lt{
+  text-decoration: line-through;
+  opacity:0.5;
 }
