@@ -1,11 +1,14 @@
 .container{
-  height:400px;
+  height:auto;
   width:700px;
-  background-color: rgb(209, 196, 196);
-  position: absolute;
+  background-color: rgb(215, 129, 30);
+  /* position: absolute;
   left: 280px;
-  bottom: 70px;
+  bottom: 70px; */
+  margin-left: 300px;
+  margin-top: 70px;
   border-radius: 2cap;
+  padding:5px;
 }
 
 #h1{
@@ -31,8 +34,8 @@
 }
 
 li{
-  background-color: chocolate;
-  color:black;
+  background-color: rgb(10, 9, 9);
+  color:white;
   margin-left:10px;
   margin-bottom: 20px;
   margin-right: 10%;
@@ -63,5 +66,5 @@ li{
 }
 #lt{
   text-decoration: line-through;
-  opacity:0.5;
+  opacity:0.3;
 }
