@@ -1,0 +1,31 @@
+.container{
+  height:400px;
+  width:700px;
+  background-color: rgb(66, 156, 186);
+  position: absolute;
+  left: 280px;
+  bottom: 70px;
+  border-radius: 2cap;
+}
+
+#h1{
+  color:whitesmoke;
+  margin-left:40px;
+  font-family: fantasy;
+  font-weight:normal;
+}
+
+.in1{
+  width:75%;
+  margin:2%;
+  margin-left: 5%;
+  padding:15px;
+  border-radius: 1cap;
+}
+
+.btn{
+  background-color: rgb(18, 170, 236);
+  padding:5px;
+  width:10%;
+  border-radius: 1cap;
+}
