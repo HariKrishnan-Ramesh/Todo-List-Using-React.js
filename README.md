@@ -45,11 +45,7 @@ A simple and intuitive Todo List application built with React.js.
 
 Contributions are welcome! Feel free to submit pull requests with bug fixes, improvements, or new features.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).  (Please note: this project will need a license file created)
-
-
+--------------------------------------------------------------------------------------------------------------------------
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
